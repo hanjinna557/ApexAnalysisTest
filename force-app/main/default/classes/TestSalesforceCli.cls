@@ -1,6 +1,6 @@
 public with sharing class TestSalesforceCli {
-    private string test01='01';
+    private string myVariable='01';
     public TestSalesforceCli() {
-       string test02='02';
+       string test='02';
     }
 }
